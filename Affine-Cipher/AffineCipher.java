@@ -1,8 +1,7 @@
 
 
 //							OSMAN MANTICI
-//								150117505
-//					 CSE 2023 HOMEWORK #4
+
 
 
 import java.io.BufferedReader;
